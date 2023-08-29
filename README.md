@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ge9jx96gs4dkqu43/branch/main?svg=true)](https://ci.appveyor.com/project/Exploratrice/patternstask2/branch/main)
